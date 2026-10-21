@@ -1,0 +1,20 @@
+{
+  "name": "wysiwyg",
+  "version": "1.0.0",
+  "description": "StyledEditor — a WCAG-focused WYSIWYG HTML editor with Word-style named styles",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.5"
+  },
+  "private": true,
+  "type": "module"
+}
